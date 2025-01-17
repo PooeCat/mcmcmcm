@@ -1,0 +1,17 @@
+# Bing
+# From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,cloudmessaging.edge.microsoft.com,<proxy-name>
+DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com,<proxy-name>
+DOMAIN-SUFFIX,events.data.microsoft.com,<proxy-name>
+DOMAIN,edgeservices.bing.com,<proxy-name>
+DOMAIN,copilot.microsoft.com,<proxy-name>
+DOMAIN,edge.microsoft.com,<proxy-name>
+DOMAIN,designer.microsoft.com,<proxy-name>
+DOMAIN,functional.events.data.microsoft.com,<proxy-name>
+DOMAIN,www.bingapis.com,<proxy-name>
+DOMAIN,browser.pipe.aria.microsoft.com,<proxy-name>
+DOMAIN,sydney.bing.com,<proxy-name>
+DOMAIN,access-point.cloudmessaging.edge.microsoft.com,<proxy-name>
