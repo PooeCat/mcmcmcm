@@ -171,8 +171,10 @@
          "znnu.com",
          "znztv.com",
          "zuobiao.press",
- 
-      ]
+         "steamserver.net",
+         "steamcdn-a.akamaihd.net",
+         "cm.steampowered.com",
+        ]
      }
   ]
 }
