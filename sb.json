@@ -148,6 +148,218 @@
     "final": "🐠 漏网之鱼",
     "default_domain_resolver": {"server": "public"}
   },
+    "outbounds": [
+    {
+      "tag": "🇯🇵 日本_AK",
+      "type": "vless",
+      "server": "akjp.dlmd.xyz",
+      "server_port": 50124,
+      "uuid": "b268f98c-fd5c-4541-9151-6b1255ae8016",
+      "tls": {
+        "enabled": true,
+        "server_name": "amd.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Nqn19UQ_OH5XxdA6j5msN9tFNgjDVp0veWfcxDQ7gTY",
+          "short_id": "fd273e67a9afb844"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 香港_AC",
+      "type": "vless",
+      "server": "clawjp.dlmd.xyz",
+      "server_port": 40011,
+      "uuid": "6a5e6212-445f-48bb-b222-2cf0842e72f4",
+      "tls": {
+        "enabled": true,
+        "server_name": "amd.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "1w8zARzayqTMAmlUtonHYCwvQHO8W7vKMqEPQAI5nmk",
+          "short_id": "804fed34187e41"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 香港_uqidc2",
+      "type": "vless",
+      "server": "hkdc2.dlmd.xyz",
+      "server_port": 51815,
+      "uuid": "f2a2d054-9bb3-43ec-917d-861bdd626d6a",
+      "tls": {
+        "enabled": true,
+        "server_name": "amd.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OQu39FdofuPGT4vp9zG_Xsq5PCYASqtKsS9KGefyt2I",
+          "short_id": "1d6e046a41"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 香港_uqidc3",
+      "type": "vless",
+      "server": "hkdc3.dlmd.xyz",
+      "server_port": 54311,
+      "uuid": "1357a26a-a70c-4bfe-80a4-3536a0686a39",
+      "tls": {
+        "enabled": true,
+        "server_name": "statici.icloud.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "ItsVpZi9Dru5pvAtypD3mNW8LHFeHEYyerm4Qq1cOEA",
+          "short_id": "b6a2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 美国_Zoro",
+      "type": "vless",
+      "server": "zus.dlmd.xyz",
+      "server_port": 42014,
+      "uuid": "fcdad231-ca8c-4990-8d82-4774a30ea876",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.icloud.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "5XRzfo-b-7S7wajIeLwaQlv0HqleW0jZwgJK953YMw8",
+          "short_id": "192966f12b5bfec4"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇨🇳 台湾_AC",
+      "type": "vless",
+      "server": "hthk.dlmd.xyz",
+      "server_port": 40001,
+      "uuid": "04ccf607-1489-4825-a31a-2ac30bae4ea9",
+      "tls": {
+        "enabled": true,
+        "server_name": "amd.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "KwHA2NVnkfN7JfxmlyhNWsfZoCW47O9PIkhplzXUXCE",
+          "short_id": "5f3bd18150"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 香港_Ht",
+      "type": "vless",
+      "server": "hthk.dlmd.xyz",
+      "server_port": 59406,
+      "uuid": "2d490f28-11c0-4f1f-92d6-37660682ce23",
+      "tls": {
+        "enabled": true,
+        "server_name": "intel.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "IbrATlHoEmyxF3o6E3xZQYpn0cWhsrAuVAcc1zGzfTc",
+          "short_id": "4ef1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇯🇵 日本_Claw4",
+      "type": "vless",
+      "server": "clawjp.dlmd.xyz",
+      "server_port": 28712,
+      "uuid": "a99bd794-ecc3-4cb3-9f36-c5a2555751f9",
+      "tls": {
+        "enabled": true,
+        "server_name": "amd.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "_U9v5bjoXr0PJdezQ6JTEJLu9txfUpjttGeTlaeqam4",
+          "short_id": "2c83c3b5"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇯🇵 日本_Claw",
+      "type": "vless",
+      "server": "cjp.dlmd.xyz",
+      "server_port": 49063,
+      "uuid": "90dff9b7-9263-4365-bb6f-f6760817d24e",
+      "tls": {
+        "enabled": true,
+        "server_name": "amd.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "HhgR3mAldrUVjjvyerbkUoUg2gLhxjc2O2DYbqaHf10",
+          "short_id": "27a3c4be139e"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 美国_Uqidc",
+      "type": "vless",
+      "server": "uqus.dlmd.xyz",
+      "server_port": 49408,
+      "uuid": "e5fe3bd9-15b6-4b40-8c40-6fa688185cda",
+      "tls": {
+        "enabled": true,
+        "server_name": "amd.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "tNmDWO3kLx_rXw9KJ9RPnlim7WHQveZvjwll5Vnc_Qc",
+          "short_id": "85"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    }
+  ]
   "inbounds": [
     {
       "tag": "dns-in",
