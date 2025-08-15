@@ -164,7 +164,7 @@
     {
       "tag": "socks-in",
       "type": "socks",
-      "listen": "127.0.0.1",
+      "listen": "::",
       "listen_port": 10115,
       "udp": true,
       "users": [
